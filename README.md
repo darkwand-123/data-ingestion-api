@@ -53,35 +53,9 @@ Paste your ngrok auth token when prompted.
 
 Access your public API URL shown in the output (e.g., https://xxxx.ngrok-free.app/docs)
 
-Test Run Screenshot
-Below is a screenshot showing a successful test run on Google Colab, with the API live and accessible via ngrok.
-
-
-Replace screenshot.png with your actual uploaded screenshot in the repo.
-
 Notes
 This API supports concurrent ingestion tracking.
 
 The rate limiter is set to 5 seconds between batch executions.
 
 Useful for demonstrating concurrency, REST design, and lightweight background task handling.
-
-vbnet
-Copy
-Edit
-
-Let me know if you'd like the screenshot captured from your current Colab session and saved for upload to GitHub.
-
-
-
-
-
-
-
-
-
-Tools
-
-
-
-ChatGPT can make mistakes. Check important info. 
