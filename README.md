@@ -48,7 +48,7 @@ Uncomment and run the start function:
 python
 Copy
 Edit
-# start()
+start()
 Paste your ngrok auth token when prompted.
 
 Access your public API URL shown in the output (e.g., https://xxxx.ngrok-free.app/docs)
